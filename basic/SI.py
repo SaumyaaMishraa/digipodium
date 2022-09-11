@@ -1,0 +1,8 @@
+print("Let's calculate Simple Interest \nEnter value of gthe following")
+print ('Enter princile amoumt:')
+p=int(input("Enter value of p= "))
+print ('Enter rate:')
+r=int(input("Enter value of r= "))
+print ('Enter time:')
+t=int(input("Enter value of t= "))
+print("SI Value is:",p*r*t/100)

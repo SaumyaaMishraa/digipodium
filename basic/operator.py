@@ -10,6 +10,5 @@ print(a*b)
 print(a**b) #exponent
 
 # membership operator 
-#x in y
+# x in y (checks value of x in)
 #x in not y
-#
