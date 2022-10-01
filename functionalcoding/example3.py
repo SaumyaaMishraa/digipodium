@@ -7,5 +7,7 @@ def data_appender (s):
 #calls
 print(data_appender('hello'))
 print(data_appender('world'))
-print(data_appender('this is simple '))
-print(data_appender('abcd'))
+print(data_appender('this is simple function '))
+print(data_appender('abcdefghijklmnopqrstuvwxyz'))
+
+print(data)

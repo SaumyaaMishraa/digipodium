@@ -1,0 +1,17 @@
+my_tuple= (1,"hello",3.4)
+print(my_tuple)
+print('------------------')
+my_tuple1= ('mouse',[8,4,6],[1,2,3])
+print(my_tuple1)
+print('------------------')
+my_tuple2= (3,4.6,"Apple")
+print(my_tuple2)
+
+print('------------------')
+print((1,2,3)+(4,5,6))
+print(('Repeat',)*3)
+
+print('------------------')
+tuple_3= ('a','p','p','l','e')
+print(tuple_3.count('p'))
+print(tuple_3.index('e'))
